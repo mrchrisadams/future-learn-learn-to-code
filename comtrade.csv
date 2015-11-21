@@ -1,0 +1,224 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2014,2014,2014,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,4396,,438401735,,,0
+H4,2014,2014,2014,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,9703139,,,0
+H4,2014,2014,2014,4,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,101,,1292686,,,0
+H4,2014,2014,2014,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,32,,118017982,,,4
+H4,2014,2014,2014,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,20562669287,,,0
+H4,2014,2014,2014,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,1,,93018,,,0
+H4,2014,2014,2014,4,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,5712,,6721286763,,,4
+H4,2014,2014,2014,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,14154559,,,0
+H4,2014,2014,2014,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,65,,564478,,,0
+H4,2014,2014,2014,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,42520,,,0
+H4,2014,2014,2014,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,23,,231143,,,0
+H4,2014,2014,2014,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,2466163545,,,0
+H4,2014,2014,2014,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,197037371,,,0
+H4,2014,2014,2014,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,4484,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,2756094321,,,0
+H4,2014,2014,2014,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,0,,31306,,,0
+H4,2014,2014,2014,4,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,9,,572659,,,0
+H4,2014,2014,2014,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,2,,11110,,,0
+H4,2014,2014,2014,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,9,,189663,,,0
+H4,2014,2014,2014,4,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,427,,15638146,,,0
+H4,2014,2014,2014,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,644,,4900472,,,0
+H4,2014,2014,2014,4,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,422,,29534,,,0
+H4,2014,2014,2014,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,3535840,,,0
+H4,2014,2014,2014,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,4,,14264,,,0
+H4,2014,2014,2014,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,359225486,,,0
+H4,2014,2014,2014,4,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,0,,8951,,,0
+H4,2014,2014,2014,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,122741324,,,0
+H4,2014,2014,2014,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,50,,701189,,,0
+H4,2014,2014,2014,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,170838,,27819255,,,0
+H4,2014,2014,2014,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,16105355708,,,0
+H4,2014,2014,2014,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,366803,,,0
+H4,2014,2014,2014,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,265,,646141,,,0
+H4,2014,2014,2014,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,20546575000,,,0
+H4,2014,2014,2014,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,36321,,149132739,,,4
+H4,2014,2014,2014,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,1,,12628,,,0
+H4,2014,2014,2014,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,59599268,,,0
+H4,2014,2014,2014,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,1,,7237,,,0
+H4,2014,2014,2014,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,56,,1984809,,,4
+H4,2014,2014,2014,4,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,0,,4428,,,0
+H4,2014,2014,2014,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,91076812,,,0
+H4,2014,2014,2014,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,6158943,,,0
+H4,2014,2014,2014,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,11,,561885,,,0
+H4,2014,2014,2014,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,2399001,,,0
+H4,2014,2014,2014,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,55029295,,,0
+H4,2014,2014,2014,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,11,,532502,,,0
+H4,2014,2014,2014,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,112805148,,,0
+H4,2014,2014,2014,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,150,,66990256,,,0
+H4,2014,2014,2014,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,12362169,,,0
+H4,2014,2014,2014,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,17654712,,,0
+H4,2014,2014,2014,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,233,,7302201,,,4
+H4,2014,2014,2014,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,0,,4000,,,0
+H4,2014,2014,2014,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,3,,80465,,,0
+H4,2014,2014,2014,4,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,2,,17538,,,0
+H4,2014,2014,2014,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,57,,30016,,,0
+H4,2014,2014,2014,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,273858,,,0
+H4,2014,2014,2014,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,187114,,,0
+H4,2014,2014,2014,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,7663,,5310524028,,,0
+H4,2014,2014,2014,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,0,,13017,,,0
+H4,2014,2014,2014,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,24064489164,,,0
+H4,2014,2014,2014,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,2012505563,,,0
+H4,2014,2014,2014,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,13,,945692,,,0
+H4,2014,2014,2014,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,4,,268,,,0
+H4,2014,2014,2014,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,2423275942,,,0
+H4,2014,2014,2014,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,881,,233557677,,,0
+H4,2014,2014,2014,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,268587,,15873963,,,0
+H4,2014,2014,2014,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,748908,,,0
+H4,2014,2014,2014,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,1870241429,,,0
+H4,2014,2014,2014,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,1852932250,,,0
+H4,2014,2014,2014,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,35704,,12924781595,,,0
+H4,2014,2014,2014,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,33,,4373577,,,0
+H4,2014,2014,2014,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,0,,730593,,,0
+H4,2014,2014,2014,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,5468,,2008826888,,,4
+H4,2014,2014,2014,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,639448,,,0
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,,,21334641854,,,0
+H4,2014,2014,2014,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,7102,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin // Diamonds, whether or not worked, but not mounted or set.",1,No Quantity,,,,,5,,292337,,,4
+H4,2014,2014,2014,0,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2430723644,,,0
+H4,2014,2014,2014,0,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63227782594,,,0
+H4,2014,2014,2014,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,94780860,,,0
+H4,2014,2014,2014,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21751737145,,,0
+H4,2014,2014,2014,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68335095856,,,0
+H4,2014,2014,2014,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,240444683866,,,0
+H4,2014,2014,2014,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,169714989280,,,0
+H4,2014,2014,2014,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,689194495,,,0
+H4,2014,2014,2014,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18030742589,,,0
+H4,2014,2014,2014,0,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1490190146,,,0
+H4,2014,2014,2014,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,472201274292,,,0
+H4,2014,2014,2014,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11968501,,,0
+H4,2014,2014,2014,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12856061102,,,0
+H4,2014,2014,2014,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5892102201,,,0
+H4,2014,2014,2014,0,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7915468175,,,0
+H4,2014,2014,2014,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,225098405233,,,0
+H4,2014,2014,2014,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,364893262,,,0
+H4,2014,2014,2014,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10508832881,,,0
+H4,2014,2014,2014,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29386540311,,,0
+H4,2014,2014,2014,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141500677,,,0
+H4,2014,2014,2014,0,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36080536800,,,0
+H4,2014,2014,2014,0,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5159519529,,,0
+H4,2014,2014,2014,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,473556513024,,,0
+H4,2014,2014,2014,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80541783,,,0
+H4,2014,2014,2014,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11295485897,,,0
+H4,2014,2014,2014,0,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76639248389,,,0
+H4,2014,2014,2014,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2342343011343,,,0
+H4,2014,2014,2014,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,54794812015,,,0
+H4,2014,2014,2014,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6550001990,,,0
+H4,2014,2014,2014,0,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13843899840,,,0
+H4,2014,2014,2014,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1923547446,,,0
+H4,2014,2014,2014,0,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,174279451675,,,0
+H4,2014,2014,2014,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,110748921250,,,0
+H4,2014,2014,2014,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9927795974,,,0
+H4,2014,2014,2014,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25730108551,,,0
+H4,2014,2014,2014,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5272669608,,,0
+H4,2014,2014,2014,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5666889413,,,0
+H4,2014,2014,2014,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17568135323,,,0
+H4,2014,2014,2014,0,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1373264431,,,0
+H4,2014,2014,2014,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74338833529,,,0
+H4,2014,2014,2014,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,566656165381,,,0
+H4,2014,2014,2014,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,170097225,,,0
+H4,2014,2014,2014,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2861189124,,,0
+H4,2014,2014,2014,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1498157777816,,,0
+H4,2014,2014,2014,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,35755371471,,,0
+H4,2014,2014,2014,0,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,540496243,,,0
+H4,2014,2014,2014,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10890690739,,,0
+H4,2014,2014,2014,0,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1946667588,,,0
+H4,2014,2014,2014,0,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4533347641,,,0
+H4,2014,2014,2014,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,524064898602,,,0
+H4,2014,2014,2014,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112196294608,,,0
+H4,2014,2014,2014,0,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5051299749,,,0
+H4,2014,2014,2014,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176036194332,,,0
+H4,2014,2014,2014,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,118287434802,,,0
+H4,2014,2014,2014,0,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,68965008000,,,0
+H4,2014,2014,2014,0,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,528368362197,,,0
+H4,2014,2014,2014,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1451988337,,,0
+H4,2014,2014,2014,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,690217466341,,,0
+H4,2014,2014,2014,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,78236719749,,,0
+H4,2014,2014,2014,0,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8385330134,,,0
+H4,2014,2014,2014,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,573074773090,,,0
+H4,2014,2014,2014,0,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,101131954619,,,0
+H4,2014,2014,2014,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3312205568,,,0
+H4,2014,2014,2014,0,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13602815460,,,0
+H4,2014,2014,2014,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32394296287,,,0
+H4,2014,2014,2014,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14767551672,,,0
+H4,2014,2014,2014,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1240029460,,,0
+H4,2014,2014,2014,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2243189647,,,0
+H4,2014,2014,2014,0,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1341897681,,,0
+H4,2014,2014,2014,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,234134976857,,,0
+H4,2014,2014,2014,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,144839922,,,0
+H4,2014,2014,2014,0,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4970788422,,,0
+H4,2014,2014,2014,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2662998582,,,0
+H4,2014,2014,2014,0,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,397098816101,,,0
+H4,2014,2014,2014,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,313563342380,,,0
+H4,2014,2014,2014,0,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5774330896,,,0
+H4,2014,2014,2014,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,440658741,,,0
+H4,2014,2014,2014,0,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50718324403,,,0
+H4,2014,2014,2014,0,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,900858622,,,0
+H4,2014,2014,2014,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,571347541556,,,0
+H4,2014,2014,2014,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116214260,,,0
+H4,2014,2014,2014,0,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1618988611,,,0
+H4,2014,2014,2014,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,41635622760,,,0
+H4,2014,2014,2014,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4973501433,,,0
+H4,2014,2014,2014,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,143791331150,,,0
+H4,2014,2014,2014,0,0,2,Export,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11400373,,,0
+H4,2014,2014,2014,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24722182145,,,0
+H4,2014,2014,2014,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,818204344,,,0
+H4,2014,2014,2014,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9635735484,,,0
+H4,2014,2014,2014,0,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38459251309,,,0
+H4,2014,2014,2014,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,214476794173,,,0
+H4,2014,2014,2014,0,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63885574210,,,0
+H4,2014,2014,2014,0,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,131591553318,,,0
+H4,2014,2014,2014,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,69877890844,,,0
+H4,2014,2014,2014,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,497833528848,,,0
+H4,2014,2014,2014,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,653364883,,,0
+H4,2014,2014,2014,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146292262,,,0
+H4,2014,2014,2014,0,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14843348443,,,0
+H4,2014,2014,2014,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,317544642257,,,0
+H4,2014,2014,2014,0,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,409768670143,,,0
+H4,2014,2014,2014,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85976289112,,,0
+H4,2014,2014,2014,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30522102229,,,0
+H4,2014,2014,2014,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90612104198,,,0
+H4,2014,2014,2014,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3063741360,,,0
+H4,2014,2014,2014,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,318649311794,,,0
+H4,2014,2014,2014,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,164413806897,,,0
+H4,2014,2014,2014,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,311145884178,,,0
+H4,2014,2014,2014,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,227572764096,,,0
+H4,2014,2014,2014,0,0,2,Export,776,Tonga,TON,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18879495,,,0
+H4,2014,2014,2014,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,380347000000,,,0
+H4,2014,2014,2014,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157714945962,,,0
+H4,2014,2014,2014,0,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2261964444,,,0
+H4,2014,2014,2014,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53913302426,,,0
+H4,2014,2014,2014,0,0,2,Export,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4933844549,,,0
+H4,2014,2014,2014,0,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26812195958,,,0
+H4,2014,2014,2014,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,511145442935,,,0
+H4,2014,2014,2014,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5704653520,,,0
+H4,2014,2014,2014,0,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1619742863865,,,0
+H4,2014,2014,2014,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9165707594,,,0
+H4,2014,2014,2014,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50921620,,,0
+H4,2014,2014,2014,0,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2416887808,,,0
+H4,2014,2014,2014,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9687918235,,,0
+H3,2014,2014,2014,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23082464,,,0
+H3,2014,2014,2014,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20701225,,,0
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,7102,"Diamonds, whether or not worked, but not mounted or set.",13,Weight in carats,,,90961,,46,,14724604,,,0
+H3,2014,2014,2014,0,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,951000010,,,0
+H3,2014,2014,2014,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103937308,,,0
+H3,2014,2014,2014,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,943717389,,,0
+H3,2014,2014,2014,0,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1174049913,,,0
+H3,2014,2014,2014,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,7102,"Diamonds, whether or not worked, but not mounted or set.",13,Weight in carats,,,5000,,1,,101650,,,0
+H3,2014,2014,2014,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12985053430,,,0
+H3,2014,2014,2014,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2139810563,,,0
+H3,2014,2014,2014,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2339529843,,,0
+H3,2014,2014,2014,0,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3375960,,,0
+H3,2014,2014,2014,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4725331362,,,0
+H3,2014,2014,2014,0,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1049677035,,,0
+H3,2014,2014,2014,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102878499711,,,0
+H3,2014,2014,2014,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10497358,,,0
+H3,2014,2014,2014,0,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2813661171,,,0
+H3,2014,2014,2014,0,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,279253408,,,0
+H3,2014,2014,2014,0,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1917670786,,,0
+H3,2014,2014,2014,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2845603230,,,0
+H2,2014,2014,2014,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,570534007,,,0
+H2,2014,2014,2014,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,7102,"Diamonds, whether or not worked, but not mounted or set.",13,Weight in carats,,,157164,,31,,507147,,,6
+H2,2014,2014,2014,0,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,480753438,,,0
+H2,2014,2014,2014,0,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23815815609,,,0
+H2,2014,2014,2014,0,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,61809755230,,,0
+H1,2014,2014,2014,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,458516539,,,0
